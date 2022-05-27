@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d846486.css",
-    "main.js": "/static/js/main.174429b0.js",
-    "static/js/787.3dbea1aa.chunk.js": "/static/js/787.3dbea1aa.chunk.js",
-    "index.html": "/index.html",
-    "main.5d846486.css.map": "/static/css/main.5d846486.css.map",
-    "main.174429b0.js.map": "/static/js/main.174429b0.js.map",
-    "787.3dbea1aa.chunk.js.map": "/static/js/787.3dbea1aa.chunk.js.map"
+    "main.css": "/jumble-words/static/css/main.5d846486.css",
+    "main.js": "/jumble-words/static/js/main.115b3e05.js",
+    "static/js/787.3dbea1aa.chunk.js": "/jumble-words/static/js/787.3dbea1aa.chunk.js",
+    "index.html": "/jumble-words/index.html",
+    "main.5d846486.css.map": "/jumble-words/static/css/main.5d846486.css.map",
+    "main.115b3e05.js.map": "/jumble-words/static/js/main.115b3e05.js.map",
+    "787.3dbea1aa.chunk.js.map": "/jumble-words/static/js/787.3dbea1aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d846486.css",
-    "static/js/main.174429b0.js"
+    "static/js/main.115b3e05.js"
   ]
 }
